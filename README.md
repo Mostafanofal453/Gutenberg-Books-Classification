@@ -62,7 +62,7 @@
 
 The project was part of our AI & Data Science Master's degree at the University of Ottawa. 
 
-Kaggle link: [Link]
+Kaggle link: [Link](https://www.kaggle.com/code/mostafanofal/gutenberg-book-classification)
 
 Check all the projects here: [Link](https://github.com/Mostafanofal453)
 
